@@ -12,11 +12,6 @@ function App() {
     <div>
 
       <Navbar />
-      <Home />
-      <AboutMe />
-      <Skills />
-      <Projects />
-      <ContactMe />
 
       <Routes>
         <Route path="/" element={<Home />} />

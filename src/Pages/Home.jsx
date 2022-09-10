@@ -7,28 +7,6 @@ const Home = () => {
         <div className='profile-container bg-third'>
             <div className='profile-parent'>
                 <div className="profile-details">
-                    {/* <div className="colz">
-                        <div className="colz-icon">
-
-                            <a href="https://www.facebook.com/rashedulhaque.ador">
-                                <i className='fa fa-facebook-square'></i>
-                            </a>
-                            <a href="https://mail.google.com/mail/u/0/">
-                                <i className='fa fa-google-plus-square'></i>
-                            </a>
-                            <a href="">
-                                <i className='fa fa-youtube-square'></i>
-                            </a>
-                            <a href="https://www.instagram.com/i_am_rashed/">
-                                <i className='fa fa-instagram'></i>
-                            </a>
-                            <a href="">
-                                <i className='fa fa-twitter'></i>
-                            </a>
-                        </div>
-
-                    </div> */}
-
                     <div className="profile-details-name">
                         <span className="">
                             {" "}
